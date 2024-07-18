@@ -13,5 +13,3 @@ def example_ingredients():
 @pytest.fixture
 def user():
     return create_new_user()
-
-# gwegyw
